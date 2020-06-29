@@ -1,0 +1,34 @@
+/* .brands {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.brands img {
+  margin: 20px;
+} */
+
+.brands {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.brands a {
+  padding: 20px;
+  max-width: 200px;
+}
+
+.brands img {
+  height: auto;
+  max-width: 100%;
+}
+
+.brands .elchaja {
+  width: 100px;
+}
+
+.brands .peugeot {
+  width: 150px;
+}

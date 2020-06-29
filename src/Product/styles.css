@@ -1,0 +1,38 @@
+/* PRODUCT DESCRIPTION */
+/* PRODUCT DESCRIPTION - FEATURES */
+.user-content ul.fa-ul {
+  list-style: none;
+  margin-bottom: 40px;
+}
+.user-content .fa-ul > li {
+  line-height: 24px;
+}
+.user-content p {
+  margin: 12px 0;
+}
+
+/* PRODUCT DESCRIPTION - CUSTOMIZABLE */
+.user-content .customizable {
+  display: flex;
+  align-items: center;
+  font-family: monospace;
+  margin-bottom: 16px;
+}
+
+.user-content .customizable img {
+  width: 40px;
+  margin-right: 12px;
+}
+
+/* PRODUCT DESCRIPTION - DELAY DELIVERY */
+.user-content .delay {
+  display: flex;
+  align-items: center;
+  font-family: monospace;
+  margin-bottom: 16px;
+}
+
+.user-content .delay i {
+  font-size: 40px;
+  margin-right: 12px;
+}
