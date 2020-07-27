@@ -7,6 +7,9 @@
 .user-content .fa-ul > li {
   line-height: 24px;
 }
+.user-content .fa-ul > li .html {
+  margin: 0;
+}
 .user-content p {
   margin: 12px 0;
 }
